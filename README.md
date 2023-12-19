@@ -15,7 +15,7 @@ The data requirement will be highlighted for each subprojects. They can all be g
 
 
 ## Sub-projects 
-### Age_PCA 
+### **Age_PCA**
 #### Description
 Performs a Principal Component Analysis on halo age properties to understand the dimensionality of it. 
 MAH_PCA is a PCA on the Mass Accretion History only. While age_properties_PCA uses different formation history 
@@ -38,7 +38,7 @@ where "atype" is one of the four data types above.
 #### Outputs 
 The notebooks produce different plots and figures that are explained in Chapter 4 of my PhD thesis. 
 
-### Structure_vs_Age
+### **Structure_vs_Age**
 #### Description
 Performs analysis of the link between halo age and structural properties. As well as a PCA on structural properties and 
 age. 
@@ -70,8 +70,7 @@ Scatter plots with different configurations of age and structural properties are
 
 The second type of result is a PCA on structural properties and age combined. 
 
-
-### Structure_vs_Cosmology
+### **Structure_vs_Cosmology** 
 #### Description
 This project compares structural properties, aggregated over many halos, for different cosmologies. 
 
