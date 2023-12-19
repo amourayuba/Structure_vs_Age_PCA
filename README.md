@@ -70,7 +70,8 @@ Scatter plots with different configurations of age and structural properties are
 
 The second type of result is a PCA on structural properties and age combined. 
 
-### Structure_vs_Cosmology 
+
+### Structure_vs_Cosmology
 #### Description
 This project compares structural properties, aggregated over many halos, for different cosmologies. 
 
